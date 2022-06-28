@@ -1,4 +1,4 @@
-# 123hp.com/setup | HP Printer DeskJet Install HP Printer Deskjet Reinstall
+# 123hp.com/setup 
 
 [![123hp.com/setup](get-started.PNG)](https://download-msoffice.usblogsites.com/)
 
