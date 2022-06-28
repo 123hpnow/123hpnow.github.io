@@ -1,6 +1,6 @@
 # 123hp.com/setup | HP Printer DeskJet Install HP Printer Deskjet Reinstall
 
-[![123hp.com/setup](get-started.png)](https://download-msoffice.usblogsites.com/)
+[![123hp.com/setup](get-started.PNG)](https://download-msoffice.usblogsites.com/)
 
 HP Printers have made the undertaking of printing bother free and more straightforward. These HP printers can print anyplace in your home and furthermore it can check, duplicate at a prudent cost. It very well may be rapidly arrangement and consumes a little space with a smaller plan. All you really want is to visit: 123.hp.com/arrangement and introduce the hp printer on your Windows or Mac PC. visit: [123hp.com/setup](https://123hpnow.github.io/)
 
